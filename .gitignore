@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-# Ingore /content/startercontent/ because its big anyone who wants to use this project must migrate
-# or copy /startercontent/ from a default project with it enabled
-Content/StarterContent/*
-
-
-# Ingores all plugin local files (binary .dlls and intermediate shaders and such)
-Plugins/**/Binaries/*
-Plugins/**/Intermediate/*
-
-=======
->>>>>>> parent of df8b0f3... Inital Commit of test project for video 06
 # Visual Studio 2015 user specific files
 .vs/
 
