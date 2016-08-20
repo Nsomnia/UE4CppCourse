@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ingore /content/startercontent/ because its big anyone who wants to use this project must migrate
 # or copy /startercontent/ from a default project with it enabled
 Content/StarterContent/*
@@ -7,6 +8,8 @@ Content/StarterContent/*
 Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
+=======
+>>>>>>> parent of df8b0f3... Inital Commit of test project for video 06
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -47,9 +50,6 @@ Plugins/**/Intermediate/*
 *.opensdf
 *.sdf
 *.VC.opendb
-
-# Visual Studio SLN Database File -CUSTOM ADD
-*.VC.db
 
 # Precompiled Assets
 SourceArt/**/*.png
