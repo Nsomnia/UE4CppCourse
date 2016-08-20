@@ -2,6 +2,11 @@
 # or copy /startercontent/ from a default project with it enabled
 Content/StarterContent/*
 
+
+# Ingores all plugin local files (binary .dlls and intermediate shaders and such)
+Plugins/**/Binaries/*
+Plugins/**/Intermediate/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
